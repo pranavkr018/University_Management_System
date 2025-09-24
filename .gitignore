@@ -6,6 +6,8 @@
 # Ignore data & backups
 /data/
 /backup/
+/src/cli/DomainCheck.java/
+/src/cli/ServiceCheck.java/
 
 # Ignore OS/IDE junk
 .DS_Store
