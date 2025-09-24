@@ -1,0 +1,15 @@
+# Ignore compiled files
+/out/
+/bin/
+/*.class
+
+# Ignore data & backups
+/data/
+/backup/
+
+# Ignore OS/IDE junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
