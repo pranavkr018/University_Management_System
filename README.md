@@ -58,11 +58,28 @@ Mapping of Features
 JDK install verification
 
 Eclipse project setup
+<img width="388" height="776" alt="Screenshot 2025-09-24 102352" src="https://github.com/user-attachments/assets/baa8bab3-09ca-44d1-b51e-654a741690e3" />
 
 Program running (menus)
+<img width="1920" height="1008" alt="Screenshot 2025-09-24 102733" src="https://github.com/user-attachments/assets/f9b72c00-9ca4-4754-a78d-8d3f0052126d" />
+
+Adding student details
+<img width="714" height="179" alt="Screenshot 2025-09-24 103218" src="https://github.com/user-attachments/assets/d152a1af-c366-4722-ae72-121cc500c073" />
+
+Adding a new course
+<img width="729" height="242" alt="Screenshot 2025-09-24 103343" src="https://github.com/user-attachments/assets/eb2a60f9-c280-4c73-a164-7594e28bda7a" />
+
+Adding a new Instructor(faculty)
+<img width="679" height="175" alt="Screenshot 2025-09-24 103540" src="https://github.com/user-attachments/assets/e82990ff-a7a7-4c82-975b-566f97aaa0ea" />
+
+Enrolling a student in a course
+<img width="507" height="130" alt="Screenshot 2025-09-24 103820" src="https://github.com/user-attachments/assets/7c43c269-74d0-4e5a-bc06-74707fa08d10" />
+
+Assign grade to a student
+<img width="741" height="461" alt="Screenshot 2025-09-24 104613" src="https://github.com/user-attachments/assets/986b631c-f4ef-4ea8-9acd-f0d762ad17fc" />
+
+Print Student Transcript
+<img width="606" height="236" alt="Screenshot 2025-09-24 104708" src="https://github.com/user-attachments/assets/788c0fdf-6374-435b-a8a7-68f8eab748ac" />
 
 Exported CSV files & backup folders
-
-🎥 Demo Video (Optional)
-
-Link to a short screen recording (2–3 min) showing usage
+<img width="433" height="380" alt="Screenshot 2025-09-24 103013" src="https://github.com/user-attachments/assets/a203fb53-7328-462f-9948-9f44f9dd10e1" /><img width="442" height="315" alt="Screenshot 2025-09-24 103025" src="https://github.com/user-attachments/assets/4d7e9bcd-d884-4dac-b7d6-301fa06159ca" />
