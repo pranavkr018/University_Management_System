@@ -6,8 +6,11 @@
 # Ignore data & backups
 /data/
 /backup/
-/src/edu/ccrm/cli/DomainCheck.java/
-/src/edu/ccrm/cli/ServiceCheck.java/
+
+# Ignore DomainCheck.java & ServiceCheck.java
+src/edu/ccrm/cli/DomainCheck.java
+src/edu/ccrm/cli/ServiceCheck.java
+
 
 # Ignore OS/IDE junk
 .DS_Store
